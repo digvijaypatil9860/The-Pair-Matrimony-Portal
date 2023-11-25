@@ -17,8 +17,6 @@ The Pair Matrimony Portal is a web application designed to facilitate the proces
 
 - **User-Friendly Interface:** The website is designed with a focus on providing an intuitive and pleasant user experience.
 
-- **Matchmaking Algorithm:** Intelligent matchmaking algorithm that suggests compatible profiles based on user preferences.
-
 - **Route Selection:** Users can easily browse and select their Match.
 
 - **Responsive Design:** A user-friendly and responsive design that works seamlessly on various devices.
