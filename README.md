@@ -18,52 +18,17 @@ The Pair Matrimony Portal is a web application designed to facilitate the proces
 
 - **Responsive Design:** A user-friendly and responsive design that works seamlessly on various devices.
 
-## Getting Started
+Technologies Used
+HTML: For creating the structure and layout of the website.
+CSS: For styling and making the website visually appealing.
+MySQL: Database management for storing and retrieving ticket and user information.
+Core Java: Backend development for server-side logic.
+Git: Version control for collaborative development.
+Spring Boot: Framework for building robust and scalable Java-based applications.
+Angular: Frontend framework for creating dynamic and responsive user interfaces.
+Key Features
+Route Selection: Users can easily browse and select their desired bus routes.
 
-### Prerequisites
+Secure Reservations: We prioritize the security of reservations to ensure a safe and reliable booking process.
 
-- [Node.js](https://nodejs.org/) installed
-- [MongoDB](https://www.mongodb.com/) database
-
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/your-repository.git
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    cd your-repository
-    npm install
-    ```
-
-3. Set up the MongoDB database and configure the connection in the application.
-
-4. Start the application:
-
-    ```bash
-    npm start
-    ```
-
-5. Open the portal in your web browser: [http://localhost:3000](http://localhost:3000)
-
-## Contributing
-
-If you'd like to contribute to The Pair Matrimony Portal, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Special thanks to [Your Name] for their valuable contributions.
-
-## Contact
-
-For inquiries and support, contact us at [your-email@example.com].
-
-
+User-Friendly Interface: The website is designed with a focus on providing an intuitive and pleasant user experience.
