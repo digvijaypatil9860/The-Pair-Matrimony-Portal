@@ -1,0 +1,37 @@
+<h3 class="container text-center mt-3">User Details</h3>
+<div class="container mt-3">
+  <table class="table table-secondary table-bordered">
+    <thead class="thead-dark">
+      <tr>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Email</th>
+        <th>Contact</th>
+        <th>Password</th>
+        <th>Operations</th>
+        <!-- <th class="col-md-3">Address</th>
+        <th class="col-md-3">Company</th>  -->
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users">
+        <td>{{ user.fullname }}</td>
+        <td>{{ user.gender }}</td>
+        <td>{{ user.email }}</td>
+        <td>{{ user.contact }}</td>
+        <td>{{ user.password }}</td>
+        <!-- <td>{{ user.website }}</td>
+        <td>{{ user.address | json}}</td>
+        <td>{{ user.company | json}}</td> -->
+        <td>
+        <button (click) = "updateUser(user.id)" class = "btn btn-info"> Update</button>
+        <button (click) = "deleteUser(user.id)" class = "btn btn-danger" style="margin-left: 10px"> Delete</button>
+        <!-- <button (click) = "userDetails(user.id)" class = "btn btn-info" style="margin-left: 10px"> View</button> -->
+      </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<footer class="text-center text-light py-3 bg-dark">
+  &copy; 2023 The Pair Matrimony
+</footer>
