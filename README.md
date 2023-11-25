@@ -3,8 +3,10 @@ The Pair Matrimony Portal is a web application designed to facilitate the proces
 
 # Wireframe:
 ![Screenshot 2023-11-25 160313](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/1afb69c5-dccd-48a5-97eb-7f442529cba1)
-![Screenshot 2023-11-25 160409](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/af6c51b8-9f1d-4257-85db-2f01c0698b29)
-![Screenshot 2023-11-25 160426](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/ab88cb37-5140-49df-88cb-4ed76e2dd233)
+![Screenshot 2023-11-25 160851](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/31802725-5ce8-4814-8ec7-491025888c5c)
+![Screenshot 2023-11-25 160835](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/04543df7-a492-434c-81b6-4b386df5c427)
+
+
 
 
 ## Features:
