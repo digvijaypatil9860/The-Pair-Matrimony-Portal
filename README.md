@@ -17,11 +17,11 @@ The Pair Matrimony Portal is a web application designed to facilitate the proces
 - **Responsive Design:** A user-friendly and responsive design that works seamlessly on various devices.
 
 ## Technologies Used
-1.HTML: For creating the structure and layout of the website.
-2.CSS: For styling and making the website visually appealing.
-3.MySQL: Database management for storing and retrieving ticket and user information.
-4.Core Java: Backend development for server-side logic.
-5.Git: Version control for collaborative development.
-6.Spring Boot: Framework for building robust and scalable Java-based applications.
-7.Angular: Frontend framework for creating dynamic and responsive user interfaces.
+- HTML: For creating the structure and layout of the website.
+- CSS: For styling and making the website visually appealing.
+- MySQL: Database management for storing and retrieving ticket and user information.
+- Core Java: Backend development for server-side logic.
+- Git: Version control for collaborative development.
+- Spring Boot: Framework for building robust and scalable Java-based applications.
+- Angular: Frontend framework for creating dynamic and responsive user interfaces.
 
