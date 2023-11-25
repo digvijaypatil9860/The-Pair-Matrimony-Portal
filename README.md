@@ -1,8 +1,13 @@
 # The Pair Matrimony Portal
-
 The Pair Matrimony Portal is a web application designed to facilitate the process of finding a life partner. This portal provides a platform for individuals to create profiles, search for potential matches, and connect with others seeking matrimonial alliances.
 
-## Features
+# Wireframe:
+![Screenshot 2023-11-25 160313](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/1afb69c5-dccd-48a5-97eb-7f442529cba1)
+![Screenshot 2023-11-25 160337](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/62096f19-f039-429c-b7f7-a5cb9eb7d502)
+![Screenshot 2023-11-25 160409](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/af6c51b8-9f1d-4257-85db-2f01c0698b29)
+![Screenshot 2023-11-25 160426](https://github.com/digvijaypatil9860/The-Pair-Matrimony-Portal/assets/142582732/ab88cb37-5140-49df-88cb-4ed76e2dd233)
+
+## Features:
 
 - **User Registration:** Users can create accounts by providing essential personal details.
 
@@ -16,7 +21,7 @@ The Pair Matrimony Portal is a web application designed to facilitate the proces
 
 - **Responsive Design:** A user-friendly and responsive design that works seamlessly on various devices.
 
-## Technologies Used
+## Technologies Used:
 - HTML: For creating the structure and layout of the website.
 - CSS: For styling and making the website visually appealing.
 - MySQL: Database management for storing and retrieving ticket and user information.
