@@ -8,27 +8,20 @@ The Pair Matrimony Portal is a web application designed to facilitate the proces
 
 - **Profile Creation:** Users can build detailed profiles, including information about themselves, preferences, and expectations from a life partner.
 
-- **Search Functionality:** Robust search filters to help users find potential matches based on criteria such as age, location, education, and more.
+- **User-Friendly Interface:** The website is designed with a focus on providing an intuitive and pleasant user experience.
 
 - **Matchmaking Algorithm:** Intelligent matchmaking algorithm that suggests compatible profiles based on user preferences.
 
-- **Communication:** Secure messaging system for users to interact with potential matches while maintaining privacy.
-
-- **Privacy and Security:** Emphasis on data privacy and security measures to protect user information.
+- **Route Selection:** Users can easily browse and select their Match.
 
 - **Responsive Design:** A user-friendly and responsive design that works seamlessly on various devices.
 
-Technologies Used
-HTML: For creating the structure and layout of the website.
-CSS: For styling and making the website visually appealing.
-MySQL: Database management for storing and retrieving ticket and user information.
-Core Java: Backend development for server-side logic.
-Git: Version control for collaborative development.
-Spring Boot: Framework for building robust and scalable Java-based applications.
-Angular: Frontend framework for creating dynamic and responsive user interfaces.
-Key Features
-Route Selection: Users can easily browse and select their desired bus routes.
+## Technologies Used
+1.HTML: For creating the structure and layout of the website.
+2.CSS: For styling and making the website visually appealing.
+3.MySQL: Database management for storing and retrieving ticket and user information.
+4.Core Java: Backend development for server-side logic.
+5.Git: Version control for collaborative development.
+6.Spring Boot: Framework for building robust and scalable Java-based applications.
+7.Angular: Frontend framework for creating dynamic and responsive user interfaces.
 
-Secure Reservations: We prioritize the security of reservations to ensure a safe and reliable booking process.
-
-User-Friendly Interface: The website is designed with a focus on providing an intuitive and pleasant user experience.
